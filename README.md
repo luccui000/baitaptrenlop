@@ -4,8 +4,8 @@ Sắp xếp
 - Sắp xếp lựa chọn (Selection Sort)
 - Sắp xếp chèn (Insertion Sort)
 - Sắp xếp nổi bọt (Buble Sort)
-- Sắp xếp cây (Heap Sort)
-<br>Stack</br>
+- Sắp xếp cây (Heap Sort)</br>
+Stack</br>
 - push()
 - pop()
 - isEmpty()
