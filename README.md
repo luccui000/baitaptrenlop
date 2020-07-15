@@ -11,4 +11,8 @@ Bai tap tren lop</br>
 - isEmpty()</br>
 - isFull()</br>
 <h2> B-Tree </br>
+<h2>Hash Table</br>
+-	Phương pháp nối kết
+-	Phương pháp dò tuyến tính
+- Phương pháp băm kép 
 
