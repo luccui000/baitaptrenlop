@@ -12,7 +12,7 @@ Bai tap tren lop</br>
 - isFull()</br>
 <h2> B-Tree </br>
 <h2>Hash Table</br>
--	Phương pháp nối kết
--	Phương pháp dò tuyến tính
-- Phương pháp băm kép 
+-	Phương pháp nối kết</br>
+-	Phương pháp dò tuyến tính</br>
+- Phương pháp băm kép </br>
 
